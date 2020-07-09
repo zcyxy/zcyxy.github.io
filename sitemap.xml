@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zcyxy.github.io/blog/</loc>
+    <lastmod>2020-07-09T18:04:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/demo/</loc>
+    <lastmod>2020-07-09T18:04:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/</loc>
+    <lastmod>2020-07-09T18:04:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/</loc>
+    <lastmod>2020-07-09T18:04:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/blog/text1/</loc>
+    <lastmod>2020-07-09T18:04:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/image/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/the-figure-shortcode/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/post-with-featured-image/</loc>
+    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/o/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zcyxy.github.io/about-hugo/</loc>
+  </url>
+  
+</urlset>

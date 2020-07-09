@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ZCYXY的博客</title>
+    <link>https://zcyxy.github.io/blog/</link>
+    <description>Recent content in Blogs on ZCYXY的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 09 Jul 2020 18:04:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://zcyxy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>格式</title>
+      <link>https://zcyxy.github.io/blog/text1/</link>
+      <pubDate>Thu, 09 Jul 2020 18:04:28 +0800</pubDate>
+      
+      <guid>https://zcyxy.github.io/blog/text1/</guid>
+      <description>1.文字 a：百度一下
+呵呵
+ 2.代码 console.log(&amp;#34;Hello&amp;#34;); var num1, num2, sum; num1 = prompt(&amp;#34;Enter first number&amp;#34;); num2 = prompt(&amp;#34;Enter second number&amp;#34;); sum = parseInt(num1) + parseInt(num2); // &amp;#34;+&amp;#34; means &amp;#34;add&amp;#34; alert(&amp;#34;Sum = &amp;#34; + sum); // &amp;#34;+&amp;#34; means combine into a string  3.文本  测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、测试文本、
+  4.图片   泳池派对限时抢购
+   figure-left
+  In a libero varius, luctus ligula et, bibendum tortor. Sed sit amet dui malesuada, mattis justo id, ultricies enim.</description>
+    </item>
+    
+  </channel>
+</rss>
